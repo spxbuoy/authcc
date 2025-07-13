@@ -1,8 +1,8 @@
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from utilsdf.functions import symbol
 
-text_home = """𝙒𝙚𝙡𝙘𝙤𝙢𝙚 »
-<code>This bot promises you fast and safe checkups with different gateways and perfect tools for your use! ✨</code>
+text_home = """[朱] 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝐆𝐋𝐈𝐓𝐂𝐇 𝘾𝙝𝙚𝙘𝙠𝙚𝙧
+<code>[㊄] Glitch chk is renewed, we present our new improved version, with fast and secure checks with different payment gateways and perfect tools for your use.</code>
                   
 <a href='tg://user?id={}'>朱 𝙑𝙚𝙧𝙨𝙞𝙤𝙣 </a> -» <code>1.3</code>"""
 
